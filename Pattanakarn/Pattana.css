@@ -1,0 +1,17 @@
+@charset "windows-874";
+.InTablePost {
+	font-size: 70px;
+	color: #00F;
+}
+.RedFont {
+	color: #F00;
+}
+.InTablePost .InTablePost .RedFont .InTablePost {
+	color: #00F;
+}
+.InTablePost {
+	font-size: 50px;
+}
+.InTablePost .InTablePost {
+	color: #009;
+}

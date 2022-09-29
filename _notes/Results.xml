@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<un:pbmstore xmlns:un="http://usablenet.com/namespaces/508as_results">
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>933</un:offset1>
+    <un:offset2>989</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>1011</un:offset1>
+    <un:offset2>1067</un:offset2>
+    <un:linenum>22</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>1089</un:offset1>
+    <un:offset2>1145</un:offset2>
+    <un:linenum>23</un:linenum>
+    <un:status>FAILED</un:status>
+    <un:message>No ALT defined for image.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>933</un:offset1>
+    <un:offset2>989</un:offset2>
+    <un:linenum>21</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>1011</un:offset1>
+    <un:offset2>1067</un:offset2>
+    <un:linenum>22</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>1089</un:offset1>
+    <un:offset2>1145</un:offset2>
+    <un:linenum>23</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>138</un:offset1>
+    <un:offset2>1302</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>138</un:offset1>
+    <un:offset2>1302</un:offset2>
+    <un:linenum>3</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>452</un:offset1>
+    <un:offset2>889</un:offset2>
+    <un:linenum>10</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClearLangForSite</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>402</un:offset1>
+    <un:offset2>1295</un:offset2>
+    <un:linenum>9</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:fileurl>file:///E|/Documents and Settings/Administrator/My Documents/Minproperties/pomoproperty/T49011/index.htm</un:fileurl>
+    <un:offset1>402</un:offset1>
+    <un:offset2>1295</un:offset2>
+    <un:linenum>9</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+</un:pbmstore>

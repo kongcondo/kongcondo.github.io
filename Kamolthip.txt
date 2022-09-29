@@ -1,0 +1,76 @@
+รียนท่านสมาชิก
+
+เว็บเซอร์วิสเซส (WebServices) ขอแจ้ง ข้อมูล สำหรับการใช้งานดังต่อไปนี้
+
+http://www.kamolthip.com
+http://202.142.212.160/~kamol
+===========================================
+เข้าสู่ Control Panel 
+
+http://202.142.212.160:2222
+หรือ
+http://www.kamolthip.com:2222
+
+Login: kamol
+Password: user200108
+
+===========================================
+ข้อมูลอื่นๆ
+
+Bandwidth: unlimited Megabytes
+Disk Space: 50 Megabytes
+
+Virtual Domains: 1
+Subdomains: unlimited
+
+POP Email Accounts: unlimited
+Email Forwarders: unlimited
+E! mail Autoresponders:unlimited
+Email Mailing Lists: unlimited
+POP Server: mail.kamolthip.com
+SMTP Server: mail.kamolthip.com
+Login: kamol
+Password: user200108 
+FTP accounts: 1
+Anonymous FTP: OFF
+FTP Server: ftp.kamolthip.com
+Login: kamol
+Password: user200108
+
+อับโหลดไฟล์ข้อมูลเว็บไซต์ของท่านไว้ที่ public_html/
+ 
+
+
+ในกรณีที่ท่านจดโดเมนจากที่อื่น กรุณาชี้ DNS มาที่ 
+
+NS1: ns1.anamai.net
+NS1 IP: 202.142.212.160
+NS2: ns2.anamai.net
+NS2 IP: 202.142.212.161
+
+
+
+===========================================
+สำหรับสมาชิกที่ต้องการดาวน์โหลดฟรีเทมเพลท ให้ใช้ขอ้มูลดังต่อไปนี้
+
+Login: kamol
+Password: user200108
+
+เพื่อดูรายละเอียดบริการของท่าน เช่นวันหมดอายุ และดาวน์โหลดฟรีโปรแกรม เว็บไซต์เท็มเพลต
+ซึ่งท่านสามารถใช้ username และ p! assword ดังกล่าวเข้าสู่ระบบสมาชิกที่
+
+http://www.webservices.in.th/login.html
+===========================================
+
+
+หากท่านประสบปัญหาในการใช้งานกรุณาติดต่อ
+
+สายด่วน 0-86666-7769
+
+โทรศัพท์ 0-86666-7769
+โทรสาร 0-2538-8604
+
+ขอขอบคุณที่ใช้บริการ
+
+เว็บเซอร์วิสเซส
+Hybrid Solutions Co.,Ltd
